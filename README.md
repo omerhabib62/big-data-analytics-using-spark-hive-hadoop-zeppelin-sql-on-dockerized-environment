@@ -7,7 +7,7 @@ To access the zeppelin web interface
 http://localhost:8890/
 
 JUpyter you may download the dataset from the
-[[https://data.nj.gov/Transportation/Vehicle-Inspection-Facility-Locations-Map/a7mk-8suc.](https://data.nj.gov/payroll_results?year_start=&year_end=&lastname=&firstname=&dept-agency=&title=&erg=&salary_low=&salary_high=&ot=)](https://data.nj.gov/payroll_results?year_start=&year_end=&lastname=&firstname=&dept-agency=&title=&erg=&salary_low=&salary_high=&ot=)
-Cheers!
+https://data.nj.gov/payroll_results?year_start=&year_end=&lastname=&firstname=&dept-agency=&title=&erg=&salary_low=&salary_high=&ot=
+cheers
 
 
