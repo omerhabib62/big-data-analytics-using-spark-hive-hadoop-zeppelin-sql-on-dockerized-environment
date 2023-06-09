@@ -6,4 +6,8 @@ To start with , clone the project and docker-compose up to run the containers.
 To access the zeppelin web interface
 http://localhost:8890/
 
+JUpyter you may download the dataset from the
+https://data.nj.gov/Transportation/Vehicle-Inspection-Facility-Locations-Map/a7mk-8suc.
+Cheers!
+
 
